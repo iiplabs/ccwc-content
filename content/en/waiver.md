@@ -6,8 +6,6 @@ publish: true
 waiver: true
 ---
 
-### WAIVER AND CONDITIONS OF PARTICIPATION
-
 I understand that this registration for the above mentioned championship may be terminated at any time at the discretion of the organizers. If the event is cancelled, all participation fees will be fully refunded. Participants are expected to comport themselves with respect and honour. Any acts of disrespect, towards officials, organizers, participants, spectators or anyone else will mean immediate disqualification without reimbursement at the discretion of the organizer and officials.
 
 The risk of injury from the activities involved (karate and or Kickboxing) is/are significant, including the potential of permanent paralysis and death, and while particular rules, equipment and personal discipline may reduce this risk, the risk of serious injury still does exist and,
