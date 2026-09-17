@@ -6,13 +6,13 @@ publish: true
 privacy: true
 ---
 
-This page is under construction and may be updated at any time, without notices.
+This policy may be further updated without prior notifications to any parties.
 
 Your privacy is important to us. This privacy statement explains how we deal with your personal data. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This privacy policy applies only to our online activities and is valid for visitors to our website.
+This privacy policy is valid for visitors to our website, for all visitors and participants in our tournament events.
 
-CCWC.CA collects data from you, through your interactions with this website. Such data depends on the context of your interactions and the choices you make.
+CCKWC.CA collects data from you, through your interactions with this website. Such data depends on the context of your interactions and the choices you make.
 
 You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature.
 
