@@ -1,7 +1,7 @@
 date: 2026-08-01
 title: Payment Items
 navigation: false
-publish: true
+publish: false
 link: true
 
 address: /payments
